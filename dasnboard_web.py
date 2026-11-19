@@ -10,7 +10,7 @@ st.set_page_config(
     layout="wide"
 )
 
-arquivo_csv = "/Users/yukiwatanabe/dados_estacao.csv"
+arquivo_csv = "dados_estacao.csv"
 
 registros = []
 
